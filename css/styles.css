@@ -62,7 +62,7 @@
 }
 .list2{
     columns: 2;
-    padding-right: 10px;
+    padding-left: 10px;
 }
 
 
@@ -78,6 +78,8 @@
     padding: 20px 0;
 
 }
+
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
